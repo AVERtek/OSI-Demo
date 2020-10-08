@@ -4,7 +4,9 @@
 
 ### Microsoft 3D Model Display v10072020
 
-### OSI Building Brands; Growing Business(/https://osicreative.com/)
+<a href="https://AVERtek.net/xr-asap-1/">Learn About XR-ASAP</a> 
+  <br><br>
+<!--### OSI Building Brands; Growing Business(/https://osicreative.com/)-->
 <!--img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 
