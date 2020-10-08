@@ -5,7 +5,7 @@
 ### Microsoft 3D Model Display v10072020
 
 <[OSI Building Brands; Growing Business](/https://osicreative.com/)>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!--img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 
 
